@@ -1,0 +1,42 @@
+.background {
+    background-color: limegreen;
+}
+#nav-item {
+    color: black;
+    font-weight: 500;
+}
+#nav-link {
+    font-weight: 600;
+}
+.paragraph {
+    color: black;
+    font-size: small;
+    padding: 10px;
+}
+.header {
+    font-size: medium;
+    font-weight: 500;
+}
+.para {
+    font-size: smaller;
+    font-weight: 400;
+}
+.container {
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 25px;
+    background-size: 50%;
+}
+.container1 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.container2 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.box{
+    border-style: solid;
+    padding-bottom: 200px;
+    border-width: 1px;
+}
